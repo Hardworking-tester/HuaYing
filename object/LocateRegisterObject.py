@@ -9,7 +9,7 @@ class LocateRegisterObject():
 
 
     def getLocateObject(self,browser,register_data_list):
-        register_exclepath="F:\\pytest\\xebest-autotest\\Data\\register_data.xls"
+        register_exclepath="F:\\pytest\\xebest-autotest\\Data\\registerByPhoneNumber_data.xls"
         register_sheetname="objname_locatemethod_locatedata"
         register_sheet=ReadExcel.ReadExcel().getTableBySheetName(register_exclepath,register_sheetname)
         register_object_list=[]
@@ -25,7 +25,7 @@ class LocateRegisterObject():
                 print (u"本次不操作元素:")+obj
 
     def judgeElementIsOperate(self,objname):
-        judge_excelpath="F:\\pytest\\xebest-autotest\\Data\\register_data.xls"
+        judge_excelpath="F:\\pytest\\xebest-autotest\\Data\\registerByPhoneNumber_data.xls"
         judge_sheetname="isoperateElement"
         judge_sheet=ReadExcel.ReadExcel().getTableBySheetName(judge_excelpath,judge_sheetname)
         row_col_list=get_number_by_data.GetRowAndColNumber().getRowAndColNumber(judge_excelpath,judge_sheetname,objname)
@@ -35,7 +35,7 @@ class LocateRegisterObject():
             return False
 
     def getRegisterObjectLocateMethod(self,browser,register_data_list,register_object):
-        register_exclepath="F:\\pytest\\xebest-autotest\\Data\\register_data.xls"
+        register_exclepath="F:\\pytest\\xebest-autotest\\Data\\registerByPhoneNumber_data.xls"
         register_sheetname="objname_locatemethod_locatedata"
         register_sheet=ReadExcel.ReadExcel().getTableBySheetName(register_exclepath,register_sheetname)
         row_col_list=get_number_by_data.GetRowAndColNumber().getRowAndColNumber(register_exclepath,register_sheetname,register_object)

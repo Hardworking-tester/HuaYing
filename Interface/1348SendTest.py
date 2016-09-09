@@ -11,9 +11,9 @@ class Send1348():
         first_post_data={"cfcaTxCode":"1348",
                          "status":"40",
                          "isTest":"1",
-                         "paymentNo":"418e1458271442539YF8",
-                         "orderNo":"1020160318397326504",
-                         "amount":"100"}
+                         "paymentNo":"415c1473844829724QPD",
+                         "orderNo":"1020160914146764071",
+                         "amount":"250000"}
         post_data=urllib.urlencode(first_post_data)
         req=urllib2.Request(post_url,post_data)
         rep=urllib2.urlopen(req)

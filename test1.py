@@ -1,43 +1,34 @@
 #encoding:utf-8
-import urllib2,urllib
-import cx_Oracle
-# con=cx_Oracle.connect("pay", "pay","192.168.1.250/chinapay")
-# cr=con.cursor()
-# sql="select * from PAY_ACCOUNT"
-# cr.execute(sql)
-# rs=cr.fetchone()
-# for m in rs:
-#     print m
-#
-# print u"王伟高"
-# post_url="http://192.168.1.85:2010/mall-mobile/search/searchByKey.json"
-# first_post_data={"params":{"key":"手机","sort":"0","sortType":"0","pageSize":"10","curPage":"1","pinpai":"","classes":"","startPrice":"0","endPrice":"10000"}}
-# post_data=urllib.urlencode(first_post_data)
-# req=urllib2.Request(post_url,post_data)
-# rep=urllib2.urlopen(req)
-# result=rep.read()
-# print result
-#http://192.168.1.250:81/svn/HuaYing/sourcecode/mall-parent/mall-sso/target/classes/com/huaying/pay/sso/web/utils/Constant.class
+from selenium import webdriver
+from time import sleep
+import time
+import sys
+sys.stdout=open(r"F:\picturedata\result.txt",'a')
+br=webdriver.Firefox()
 
+br.get('http://www.huaqinwang.com/search.shtml?searchKey=%E9%A1%BA&brand=&clazz=&pricebegin=0&priceend=0&sort=0&sorttype=0&areaId=240')
+br.find_element_by_css_selector("li[data-code='240']").click()
 
+sleep(3)
+# print "王伟高"
+# data1=br.find_element_by_css_selector("span.searchNum").text
+# print "第一次进入页面后搜索结果数量为：%r"  %data1
+# print time.ctime()
+# br.get_screenshot_as_file(r"F:\picturedata\first.jpg")
+# print "---------------------------------------------------------------------------------------"
+i=4340
+while True:
 
-
-post_url="http://192.168.1.131:2010/msg/sendPhoneMSG.json"
-first_post_data={"params":{"messCodeType":"201","mobile":"17718880435"}}
-post_data=urllib.urlencode(first_post_data)
-req=urllib2.Request(post_url,post_data)
-rep=urllib2.urlopen(req)
-result=rep.read()
-print result
-
-#
-# for i in range(1,1001):
-#     post_url="http://192.168.1.85:2010/mall-mobile/login.json"
-#     first_post_data={"params":{"loginName":"15038163773","password":"123abc"}}
-#     post_data=urllib.urlencode(first_post_data)
-#     req=urllib2.Request(post_url,post_data)
-#     rep=urllib2.urlopen(req)
-#     result=rep.read()
-#     print result
-#     print "第%s次结果" %i
-
+    try:
+        sleep(30)
+        br.refresh()
+        print  "第%r次刷新页面后搜索结果数量为：%r" %(i,br.find_element_by_css_selector("span.searchNum").text)
+        print time.ctime()
+        picture="F:\\picturedata\\"+str(i)+".jpg"
+        br.get_screenshot_as_file(picture)
+        # br.get_screenshot_as_png()
+        print "----------------------------------------------------------------------------------------------------"
+        sys.stdout.flush()
+        i=i+1
+    except:
+        print "搜到不到结果了"

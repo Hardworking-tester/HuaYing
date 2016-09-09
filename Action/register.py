@@ -12,7 +12,7 @@ class Register(unittest.TestCase):
         self.browser=Browser.Browser().init_browserByRegister()
 
     def getRegisterDataByTestcaseId(self,testcaseid):
-        register_exclepath="F:\\pytest\\xebest-autotest\\Data\\register_data.xls"
+        register_exclepath="F:\\pytest\\xebest-autotest\\Data\\registerByPhoneNumber_data.xls"
         register_sheetname="register_data"
         register_sheet=ReadExcel.ReadExcel().getTableBySheetName(register_exclepath,register_sheetname)
 
@@ -130,7 +130,7 @@ class Register(unittest.TestCase):
         通过断言判断错误提示是否和期望的一致，并且通过查询界面的元素是否出现以及元素的文本值去判断（通过界面）是否注册成功。如果查询到注册成功的标记则返回true
         ，否则返回false
         """
-        assertmessage_exclepath="F:\\pytest\\xebest-autotest\\Data\\register_data.xls"
+        assertmessage_exclepath="F:\\pytest\\xebest-autotest\\Data\\registerByPhoneNumber_data.xls"
         assertmessage_sheetname="assert_message"
         assertmessage_sheet=ReadExcel.ReadExcel().getTableBySheetName(assertmessage_exclepath,assertmessage_sheetname)
         rows=assertmessage_sheet.nrows

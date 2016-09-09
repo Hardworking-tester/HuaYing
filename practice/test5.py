@@ -1,8 +1,11 @@
 # encoding:utf-8
-import time
-now=time.strftime("%Y-%m-%d-%H_%M_%S",time.localtime(time.time()))
-filepath="F:\\testresult\\"+now+"ResultReport.html"
-result=open(filepath,'wb')
-# runner=HTMLTestRunner.HTMLTestRunner(stream=result,title=u'测试报告',description=u'用例执行情况')
-# runner.run(testunit)
-result.close()
+i=1
+while True:
+
+    # try:
+    #
+    #     print "wwg"
+    # except:
+    #     print "搜到不到结果了"
+    i = i + 1
+    print i

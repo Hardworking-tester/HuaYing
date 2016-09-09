@@ -5,7 +5,7 @@ class OperateRegisterElement():
 
 
     def operateElement(self,register_data_list,objname,located_element):
-        assertmessage_exclepath="F:\\pytest\\xebest-autotest\\Data\\register_data.xls"
+        assertmessage_exclepath="F:\\pytest\\xebest-autotest\\Data\\registerByPhoneNumber_data.xls"
         assertmessage_sheetname="assert_message"
 
         operate_method=self.getOperateMethod(objname)
@@ -50,7 +50,7 @@ class OperateRegisterElement():
 
     def getOperateMethod(self,objname):
 
-            register_exclepath="F:\\pytest\\xebest-autotest\\Data\\register_data.xls"
+            register_exclepath="F:\\pytest\\xebest-autotest\\Data\\registerByPhoneNumber_data.xls"
             register_sheetname="operate_method"
             register_sheet=ReadExcel.ReadExcel().getTableBySheetName(register_exclepath,register_sheetname)
             row_col_list=get_number_by_data.GetRowAndColNumber().getRowAndColNumber(register_exclepath,register_sheetname,objname)
