@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ed6b85d8-b69b-42bc-8d39-ef5c902acd12" name="HuaYing" url="https://github.com/Hardworking-tester/HuaYing">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</project>

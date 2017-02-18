@@ -30,12 +30,12 @@ class Send1348():
             print "----------------------------------------------"
 
 
-        # opener.addheaders = [('User-agent',
-        # 'Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0')]
-        # urllib2.install_opener(opener)
-        # f=urllib.urlopen("http://sso.huaqinwang.com:80/mall/login.shtml")
-        # s=f.read()
-        # print s
+        opener.addheaders = [('User-agent',
+        'Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0')]
+        urllib2.install_opener(opener)
+        f=urllib.urlopen("http://sso.huaqinwang.com:80/mall/login.shtml")
+        s=f.read()
+        print s
 
 
 pp=Send1348()

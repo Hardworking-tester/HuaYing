@@ -7,7 +7,7 @@ huanan_data=""
 huadong_data=""
 huazhong_data=""
 huabei_data=""
-excel_path=r"F:\data\data20.xls"
+excel_path=r"F:\data\data48.xls"
 print excel_path
 data=xlrd.open_workbook(excel_path)
 sheet_name=data.sheet_by_index(0)

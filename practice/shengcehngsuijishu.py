@@ -5,7 +5,7 @@ from HuaYingOracle import Select
 list1=[]
 q='189'
 
-for qq in range(1000):
+for qq in range(50):
     for i in range(8):
         m=str(random.randint(0,9))
         q=q+m

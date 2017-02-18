@@ -3,9 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/HuaYing.iml" filepath="$PROJECT_DIR$/.idea/HuaYing.iml" />
-      <module fileurl="file://G:/HuaYingAPP/.idea/HuaYingAPP.iml" filepath="G:/HuaYingAPP/.idea/HuaYingAPP.iml" />
-      <module fileurl="file://G:/untitled/.idea/untitled.iml" filepath="G:/untitled/.idea/untitled.iml" />
-      <module fileurl="file://G:/web_flask/.idea/web_flask.iml" filepath="G:/web_flask/.idea/web_flask.iml" />
     </modules>
   </component>
 </project>

@@ -5,7 +5,7 @@ class Select():
 
     def selectData(self,sql):
 
-        con=cx_Oracle.connect('mall','huaqinw_8i9o','192.168.1.149/huaqinw')
+        con=cx_Oracle.connect('mall','SUexr4bm','192.168.1.149/huaqinw')
         cr=con.cursor()
         cr.execute(sql)
         rs=cr.fetchall()

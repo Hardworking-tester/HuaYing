@@ -149,6 +149,10 @@ class Register(unittest.TestCase):
         else:
             return False
 
+
+
+
+
     def tearDown(self):
         self.browser.close()
 
