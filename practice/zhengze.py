@@ -7,4 +7,4 @@ for i in range (5000,9999):
 # br=webdriver.Firefox()
 # br.get("http://www.baidu.com")
 # print "wwwg"
-print "wwg1"
+print "wwg"
