@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/HuaYing.iml" filepath="$PROJECT_DIR$/.idea/HuaYing.iml" />
+      <module fileurl="file://G:/HuaYingAPP/.idea/HuaYingAPP.iml" filepath="G:/HuaYingAPP/.idea/HuaYingAPP.iml" />
+      <module fileurl="file://G:/auto_test/.idea/auto_test.iml" filepath="G:/auto_test/.idea/auto_test.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/flasktest/.idea/flasktest.iml" filepath="$USER_HOME$/PycharmProjects/flasktest/.idea/flasktest.iml" />
+      <module fileurl="file://G:/morethread/.idea/morethread.iml" filepath="G:/morethread/.idea/morethread.iml" />
     </modules>
   </component>
 </project>

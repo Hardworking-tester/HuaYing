@@ -1,29 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdaadd9b-cde6-4308-9041-858652f97a01" name="Default" comment="hahah">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/webServers.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/geckodriver.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/ghostdriver.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/test26.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/test27.py" />
+    <list default="true" id="cdaadd9b-cde6-4308-9041-858652f97a01" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="G:/morethread/Data/sku.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Administrator.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vagrant.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/config.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/FileEdit.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/morethread.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/test29.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/test30.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/test31.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/test32.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/test33.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/test34.py" />
+      <change type="NEW" beforePath="" afterPath="G:/morethread/.idea/dictionaries/Administrator.xml" />
+      <change type="NEW" beforePath="" afterPath="G:/morethread/.idea/vagrant.xml" />
+      <change type="NEW" beforePath="" afterPath="G:/morethread/Action/getConfig.py" />
+      <change type="NEW" beforePath="" afterPath="G:/morethread/Action/t.py" />
+      <change type="NEW" beforePath="" afterPath="G:/morethread/config/config.ini" />
+      <change type="NEW" beforePath="" afterPath="G:/morethread/practice/FileEdit.py" />
+      <change type="NEW" beforePath="" afterPath="G:/morethread/practice/morethread.py" />
+      <change type="NEW" beforePath="" afterPath="G:/morethread/practice/test29.py" />
+      <change type="NEW" beforePath="" afterPath="G:/morethread/practice/test30.py" />
+      <change type="NEW" beforePath="" afterPath="G:/morethread/practice/test31.py" />
+      <change type="NEW" beforePath="" afterPath="G:/morethread/practice/test32.py" />
+      <change type="NEW" beforePath="" afterPath="G:/morethread/practice/test33.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/practice/geckodriver.log" afterPath="" />
+      <change type="DELETED" beforePath="G:/morethread/Action/QuotePriceDealOrderPaySendGood.py" afterPath="" />
+      <change type="DELETED" beforePath="G:/morethread/practice/geckodriver.log" afterPath="" />
+      <change type="MODIFICATION" beforePath="G:/auto_test/app/Data/login_data.xls" afterPath="G:/auto_test/app/Data/login_data.xls" />
+      <change type="MODIFICATION" beforePath="G:/morethread/Data/addProduct_data.xls" afterPath="G:/morethread/Data/addProduct_data.xls" />
+      <change type="MODIFICATION" beforePath="G:/morethread/Data/deal_order.xls" afterPath="G:/morethread/Data/deal_order.xls" />
+      <change type="MODIFICATION" beforePath="G:/morethread/Data/register_data.xls" afterPath="G:/morethread/Data/register_data.xls" />
+      <change type="MODIFICATION" beforePath="G:/morethread/HuaYingData/login_data.xls" afterPath="G:/morethread/HuaYingData/login_data.xls" />
+      <change type="MODIFICATION" beforePath="C:/Python27/Scripts/tutorial/.idea/modules.xml" afterPath="C:/Python27/Scripts/tutorial/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="C:/Python27/Scripts/tutorial/.idea/tutorial.iml" afterPath="C:/Python27/Scripts/tutorial/.idea/tutorial.iml" />
+      <change type="MODIFICATION" beforePath="C:/Python27/Scripts/tutorial/tutorial/pipelines.py" afterPath="C:/Python27/Scripts/tutorial/tutorial/pipelines.py" />
+      <change type="MODIFICATION" beforePath="C:/Python27/Scripts/tutorial/tutorial/spiders/dmoz_spider.py" afterPath="C:/Python27/Scripts/tutorial/tutorial/spiders/dmoz_spider.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/HuaYing.iml" afterPath="$PROJECT_DIR$/.idea/HuaYing.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Action/register.py" afterPath="$PROJECT_DIR$/Action/register.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HuaYingOracle/Select.py" afterPath="$PROJECT_DIR$/HuaYingOracle/Select.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Interface/1348SendTest.py" afterPath="$PROJECT_DIR$/Interface/1348SendTest.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Interface/loginwithCookies.py" afterPath="$PROJECT_DIR$/Interface/loginwithCookies.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oracle/delete.py" afterPath="$PROJECT_DIR$/oracle/delete.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practice/getworkday.py" afterPath="$PROJECT_DIR$/practice/getworkday.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practice/md5jiami.py" afterPath="$PROJECT_DIR$/practice/md5jiami.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practice/priceUpdate.py" afterPath="$PROJECT_DIR$/practice/priceUpdate.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practice/shengcehngsuijishu.py" afterPath="$PROJECT_DIR$/practice/shengcehngsuijishu.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practice/test21.py" afterPath="$PROJECT_DIR$/practice/test21.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practice/test25.py" afterPath="$PROJECT_DIR$/practice/test25.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practice/test7.py" afterPath="$PROJECT_DIR$/practice/test7.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practice/loginwithcookie.py" afterPath="$PROJECT_DIR$/practice/loginwithcookie.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practice/test24.py" afterPath="$PROJECT_DIR$/practice/test24.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practice/test27.py" afterPath="$PROJECT_DIR$/practice/test27.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practice/test5.py" afterPath="$PROJECT_DIR$/practice/test5.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practice/zhengze.py" afterPath="$PROJECT_DIR$/practice/zhengze.py" />
+      <change type="MODIFICATION" beforePath="G:/HuaYingAPP/.idea/HuaYingAPP.iml" afterPath="G:/HuaYingAPP/.idea/HuaYingAPP.iml" />
+      <change type="MODIFICATION" beforePath="G:/HuaYingAPP/.idea/misc.xml" afterPath="G:/HuaYingAPP/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="G:/HuaYingAPP/.idea/modules.xml" afterPath="G:/HuaYingAPP/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="G:/auto_test/geckodriver.log" afterPath="G:/auto_test/geckodriver.log" />
+      <change type="MODIFICATION" beforePath="G:/auto_test/manage.py" afterPath="G:/auto_test/manage.py" />
+      <change type="MODIFICATION" beforePath="G:/morethread/.idea/HuaYing.iml" afterPath="G:/morethread/.idea/HuaYing.iml" />
+      <change type="MODIFICATION" beforePath="G:/morethread/.idea/modules.xml" afterPath="G:/morethread/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="G:/morethread/.idea/vcs.xml" afterPath="G:/morethread/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="G:/morethread/.idea/workspace.xml" afterPath="G:/morethread/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="G:/morethread/Action/AddProduct.py" afterPath="G:/morethread/Action/AddProduct.py" />
+      <change type="MODIFICATION" beforePath="G:/morethread/Action/Browser.py" afterPath="G:/morethread/Action/Browser.py" />
+      <change type="MODIFICATION" beforePath="G:/morethread/Action/PublicLogin.py" afterPath="G:/morethread/Action/PublicLogin.py" />
+      <change type="MODIFICATION" beforePath="G:/morethread/Action/QuotePrice.py" afterPath="G:/morethread/Action/QuotePrice.py" />
+      <change type="MODIFICATION" beforePath="G:/morethread/Action/QuotePriceDealOrder.py" afterPath="G:/morethread/Action/QuotePriceDealOrder.py" />
+      <change type="MODIFICATION" beforePath="G:/morethread/Action/login.py" afterPath="G:/morethread/Action/login.py" />
+      <change type="MODIFICATION" beforePath="G:/morethread/Action/test_QuotePriceDealOrderPay.py" afterPath="G:/morethread/Action/test_QuotePriceDealOrderPay.py" />
+      <change type="MODIFICATION" beforePath="G:/morethread/Test_Suite/all_test.py" afterPath="G:/morethread/Test_Suite/all_test.py" />
+      <change type="MODIFICATION" beforePath="G:/morethread/practice/loginwithcookie.py" afterPath="G:/morethread/practice/loginwithcookie.py" />
+      <change type="MODIFICATION" beforePath="G:/morethread/practice/test27.py" afterPath="G:/morethread/practice/test27.py" />
+      <change type="MODIFICATION" beforePath="G:/morethread/practice/test5.py" afterPath="G:/morethread/practice/test5.py" />
+      <change type="MODIFICATION" beforePath="G:/morethread/practice/zhengze.py" afterPath="G:/morethread/practice/zhengze.py" />
+      <change type="MOVED" beforePath="G:/morethread/Action/register.py" afterPath="G:/morethread/Action/test_register.py" />
     </list>
     <list id="6f404931-ea55-4810-ad61-d4d496d79e98" name="Rejected commit: Default" comment="hahah">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/sku.xls" />
@@ -39,33 +85,67 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/HuaYing$all_test.coverage" NAME="all_test Coverage Results" MODIFIED="1455779964862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HuaYingTestSuit" />
-    <SUITE FILE_PATH="coverage/HuaYing$shengcehngsuijishu.coverage" NAME="shengcehngsuijishu Coverage Results" MODIFIED="1457492329560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/HuaYing$loginwithcookie.coverage" NAME="loginwithcookie Coverage Results" MODIFIED="1488520973215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/HuaYing$all_test.coverage" NAME="all_test Coverage Results" MODIFIED="1495510576123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/morethread/Test_Suite" />
+    <SUITE FILE_PATH="coverage/HuaYing$shengcehngsuijishu.coverage" NAME="shengcehngsuijishu Coverage Results" MODIFIED="1492668787376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
     <SUITE FILE_PATH="coverage/HuaYing$get_number_by_data.coverage" NAME="get_number_by_data Coverage Results" MODIFIED="1452221281584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HuaYingData" />
     <SUITE FILE_PATH="coverage/HuaYing$test2_registerByPhone.coverage" NAME="test2_registerByPhone Coverage Results" MODIFIED="1453946934662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HuaYingAction" />
+    <SUITE FILE_PATH="coverage/HuaYing$untitled.coverage" NAME="untitled Coverage Results" MODIFIED="1492055450517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/HuaYing$test27.coverage" NAME="test27 Coverage Results" MODIFIED="1496386203358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
     <SUITE FILE_PATH="coverage/HuaYing$Unittest_Login_testSuccessLogin.coverage" NAME="Unittest Login.testSuccessLogin Coverage Results" MODIFIED="1452243758145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HuaYingAction" />
-    <SUITE FILE_PATH="coverage/HuaYing$SupplyerSettle.coverage" NAME="SupplyerSettle Coverage Results" MODIFIED="1455852153888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huaqinwangPractice" />
+    <SUITE FILE_PATH="coverage/HuaYing$Unittests_in_Baidu__1_.coverage" NAME="Unittests in Baidu (1) Coverage Results" MODIFIED="1493890705266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
     <SUITE FILE_PATH="coverage/HuaYing$test21.coverage" NAME="test21 Coverage Results" MODIFIED="1452480316882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/HuaYing$Unittest_Login_testAddProductSuccess__1_.coverage" NAME="Unittest Login.testAddProductSuccess (1) Coverage Results" MODIFIED="1495185681726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/morethread/Action" />
     <SUITE FILE_PATH="coverage/HuaYing$test18.coverage" NAME="test18 Coverage Results" MODIFIED="1461813435894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
-    <SUITE FILE_PATH="coverage/HuaYing$login.coverage" NAME="login Coverage Results" MODIFIED="1452239589284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HuaYingAction" />
+    <SUITE FILE_PATH="coverage/HuaYing$FileEdit.coverage" NAME="FileEdit Coverage Results" MODIFIED="1489656436881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/HuaYing$test30.coverage" NAME="test30 Coverage Results" MODIFIED="1495015258947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
     <SUITE FILE_PATH="coverage/HuaYing$test15.coverage" NAME="test15 Coverage Results" MODIFIED="1455854524038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
-    <SUITE FILE_PATH="coverage/HuaYing$1318SendTest.coverage" NAME="1318SendTest Coverage Results" MODIFIED="1458532810892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interface" />
-    <SUITE FILE_PATH="coverage/HuaYing$1348SendTest.coverage" NAME="1348SendTest Coverage Results" MODIFIED="1459996718238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interface" />
-    <SUITE FILE_PATH="coverage/HuaYing$zhengze.coverage" NAME="zhengze Coverage Results" MODIFIED="1486086605922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/HuaYing$login.coverage" NAME="login Coverage Results" MODIFIED="1495164816163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/morethread/Action" />
+    <SUITE FILE_PATH="coverage/HuaYing$nameForm.coverage" NAME="nameForm Coverage Results" MODIFIED="1494559247271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/HuaYing$test33.coverage" NAME="test33 Coverage Results" MODIFIED="1494554569592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/HuaYing$test32.coverage" NAME="test32 Coverage Results" MODIFIED="1495183486557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/HuaYing$1348SendTest.coverage" NAME="1348SendTest Coverage Results" MODIFIED="1492737338134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interface" />
+    <SUITE FILE_PATH="coverage/HuaYing$Unittest_Login_testAddProductSuccess.coverage" NAME="Unittest Login.testAddProductSuccess Coverage Results" MODIFIED="1495510342861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/morethread/Action" />
+    <SUITE FILE_PATH="coverage/HuaYing$zhengze.coverage" NAME="zhengze Coverage Results" MODIFIED="1490604249899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/HuaYing$Browser.coverage" NAME="Browser Coverage Results" MODIFIED="1495507916820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/morethread/Action" />
     <SUITE FILE_PATH="coverage/HuaYing$Unittests_in_login.coverage" NAME="Unittests in login Coverage Results" MODIFIED="1452243502447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HuaYingAction" />
-    <SUITE FILE_PATH="coverage/HuaYing$ReadExcel.coverage" NAME="ReadExcel Coverage Results" MODIFIED="1452220892037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HuaYingData" />
-    <SUITE FILE_PATH="coverage/HuaYing$getworkday.coverage" NAME="getworkday Coverage Results" MODIFIED="1486086559037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/HuaYing$Unittests_in_Login__2_.coverage" NAME="Unittests in Login (2) Coverage Results" MODIFIED="1495506596995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/morethread/Action" />
+    <SUITE FILE_PATH="coverage/HuaYing$Unittest_Baidu_test_baidu_search.coverage" NAME="Unittest Baidu.test_baidu_search Coverage Results" MODIFIED="1493971415532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/HuaYing$getworkday.coverage" NAME="getworkday Coverage Results" MODIFIED="1495530341526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
     <SUITE FILE_PATH="coverage/HuaYing$test1_login.coverage" NAME="test1_login Coverage Results" MODIFIED="1453531733744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HuaYingAction" />
     <SUITE FILE_PATH="coverage/HuaYing$test14.coverage" NAME="test14 Coverage Results" MODIFIED="1461655704800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
     <SUITE FILE_PATH="coverage/HuaYing$Unittests_in_test17.coverage" NAME="Unittests in test17 Coverage Results" MODIFIED="1452244117429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
-    <SUITE FILE_PATH="coverage/HuaYing$Select.coverage" NAME="Select Coverage Results" MODIFIED="1457492094826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HuaYingOracle" />
-    <SUITE FILE_PATH="coverage/HuaYing$test17.coverage" NAME="test17 Coverage Results" MODIFIED="1461814368728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
-    <SUITE FILE_PATH="coverage/HuaYing$test5.coverage" NAME="test5 Coverage Results" MODIFIED="1455940729142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/HuaYing$sql.coverage" NAME="sql Coverage Results" MODIFIED="1492133061747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/untitled" />
+    <SUITE FILE_PATH="coverage/HuaYing$test5.coverage" NAME="test5 Coverage Results" MODIFIED="1492668889053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
     <SUITE FILE_PATH="coverage/HuaYing$xiadanxianzhi.coverage" NAME="xiadanxianzhi Coverage Results" MODIFIED="1458179003666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huaqinwangPractice" />
     <SUITE FILE_PATH="coverage/HuaYing$LocateLoginObject.coverage" NAME="LocateLoginObject Coverage Results" MODIFIED="1452235262199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HuaYingObject" />
-    <SUITE FILE_PATH="coverage/HuaYing$test2_releaseGoods.coverage" NAME="test2_releaseGoods Coverage Results" MODIFIED="1455952013974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HuaYingAction" />
     <SUITE FILE_PATH="coverage/HuaYing$delete.coverage" NAME="delete Coverage Results" MODIFIED="1452480268166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oracle" />
+    <SUITE FILE_PATH="coverage/HuaYing$Unittests_in_Baidu.coverage" NAME="Unittests in Baidu Coverage Results" MODIFIED="1493890603063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/HuaYing$getConfig.coverage" NAME="getConfig Coverage Results" MODIFIED="1495164236735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/morethread/Action" />
     <SUITE FILE_PATH="coverage/HuaYing$ReleaseGoods.coverage" NAME="ReleaseGoods Coverage Results" MODIFIED="1455940869835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huaqinwangPractice" />
+    <SUITE FILE_PATH="coverage/HuaYing$manage__1_.coverage" NAME="manage (1) Coverage Results" MODIFIED="1496297793048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/API_SAMPLE" />
+    <SUITE FILE_PATH="coverage/HuaYing$Unittests_in_test34.coverage" NAME="Unittests in test34 Coverage Results" MODIFIED="1495015163047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/HuaYing$hello.coverage" NAME="hello Coverage Results" MODIFIED="1492067126699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/untitled" />
+    <SUITE FILE_PATH="coverage/HuaYing$Unittests_in_test31.coverage" NAME="Unittests in test31 Coverage Results" MODIFIED="1493891637043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/HuaYing$Unittests_in_Login.coverage" NAME="Unittests in Login Coverage Results" MODIFIED="1495510193966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/morethread/Action" />
+    <SUITE FILE_PATH="coverage/HuaYing$test31.coverage" NAME="test31 Coverage Results" MODIFIED="1493971981726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/HuaYing$Unittests_in_Login__1_.coverage" NAME="Unittests in Login (1) Coverage Results" MODIFIED="1495187582978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/morethread/Action" />
+    <SUITE FILE_PATH="coverage/HuaYing$SupplyerSettle.coverage" NAME="SupplyerSettle Coverage Results" MODIFIED="1455852153888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huaqinwangPractice" />
+    <SUITE FILE_PATH="coverage/HuaYing$manage.coverage" NAME="manage Coverage Results" MODIFIED="1495876154439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/auto_test" />
+    <SUITE FILE_PATH="coverage/HuaYing$morethread.coverage" NAME="morethread Coverage Results" MODIFIED="1494559125889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/HuaYing$1318SendTest.coverage" NAME="1318SendTest Coverage Results" MODIFIED="1458532810892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interface" />
+    <SUITE FILE_PATH="coverage/HuaYing$t.coverage" NAME="t Coverage Results" MODIFIED="1495185106180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/morethread/Action" />
+    <SUITE FILE_PATH="coverage/HuaYing$models.coverage" NAME="models Coverage Results" MODIFIED="1496394006789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/API_SAMPLE/app" />
+    <SUITE FILE_PATH="coverage/HuaYing$all_test2.coverage" NAME="all_test2 Coverage Results" MODIFIED="1495003867343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/morethread/Test_Suite" />
+    <SUITE FILE_PATH="coverage/HuaYing$Unittest_Baidu_test_baidu_search__1_.coverage" NAME="Unittest Baidu.test_baidu_search (1) Coverage Results" MODIFIED="1493891694508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/HuaYing$test29.coverage" NAME="test29 Coverage Results" MODIFIED="1489645490610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/HuaYing$ReadExcel.coverage" NAME="ReadExcel Coverage Results" MODIFIED="1452220892037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HuaYingData" />
+    <SUITE FILE_PATH="coverage/HuaYing$Select.coverage" NAME="Select Coverage Results" MODIFIED="1457492094826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HuaYingOracle" />
+    <SUITE FILE_PATH="coverage/HuaYing$test17.coverage" NAME="test17 Coverage Results" MODIFIED="1461814368728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/HuaYing$test34.coverage" NAME="test34 Coverage Results" MODIFIED="1495417786493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/HuaYing$test2_releaseGoods.coverage" NAME="test2_releaseGoods Coverage Results" MODIFIED="1455952013974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HuaYingAction" />
+    <SUITE FILE_PATH="coverage/HuaYing$loginwithCookies.coverage" NAME="loginwithCookies Coverage Results" MODIFIED="1495857223325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interface" />
+    <SUITE FILE_PATH="coverage/HuaYing$test28.coverage" NAME="test28 Coverage Results" MODIFIED="1489646133721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -84,102 +164,65 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="registerByEmail.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HuaYingAction/registerByEmail.py">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://G:/API_SAMPLE/app/atuo/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="512">
-              <caret line="35" column="44" lean-forward="false" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="zhengze.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/practice/zhengze.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="getworkday.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practice/getworkday.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="register.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Action/register.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="143" column="9" lean-forward="false" selection-start-line="143" selection-start-column="9" selection-end-line="143" selection-end-column="9" />
+            <state relative-caret-position="1103">
+              <caret line="114" column="63" lean-forward="false" selection-start-line="114" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
               <folding>
-                <marker date="1487396803758" expanded="true" signature="4743:4804" ph="select qy.* csm_user_info" />
+                <element signature="e#30#49#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="priceUpdate.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practice/priceUpdate.py">
+      <file leaf-file-name="getResult.html" pinned="false" current-in-tab="true">
+        <entry file="file://G:/API_SAMPLE/app/templates/autotemplates/getResult.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1548">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="96">
+              <caret line="6" column="70" lean-forward="false" selection-start-line="6" selection-start-column="70" selection-end-line="6" selection-end-column="70" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="shengcehngsuijishu.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practice/shengcehngsuijishu.py">
+      <file leaf-file-name="post.py" pinned="false" current-in-tab="false">
+        <entry file="file://G:/API_SAMPLE/app/action/post.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state relative-caret-position="189">
+              <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test21.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practice/test21.py">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://G:/API_SAMPLE/app/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-192">
-              <caret line="3" column="30" lean-forward="false" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+            <state relative-caret-position="416">
+              <caret line="67" column="15" lean-forward="false" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test25.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practice/test25.py">
+      <file leaf-file-name="executeTest.html" pinned="false" current-in-tab="false">
+        <entry file="file://G:/API_SAMPLE/app/templates/autotemplates/executeTest.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="399">
+              <caret line="16" column="47" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PublicLogin.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Action/PublicLogin.py">
+      <file leaf-file-name="forms.py" pinned="false" current-in-tab="false">
+        <entry file="file://G:/API_SAMPLE/app/atuo/forms.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="-579">
+              <caret line="24" column="90" lean-forward="false" selection-start-line="24" selection-start-column="90" selection-end-line="24" selection-end-column="90" />
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://G:/web_flask/app/static/1.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -188,55 +231,106 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Flask Main" />
+        <option value="CoffeeScript File" />
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>data</find>
+      <find>image_urls</find>
+      <find>消息</find>
+      <find>guohuang909012</find>
+      <find>swit</find>
+      <find>bootstrap</find>
+      <find>testcaseid</find>
+      <find>case</find>
+      <find>Screenshot</find>
+      <find>wwg1</find>
+      <find>resp</find>
+      <find>test</find>
+    </findStrings>
+    <dirStrings>
+      <dir>G:\auto_test</dir>
+      <dir>G:\API_SAMPLE</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Action/PublicLogin.py" />
-        <option value="$PROJECT_DIR$/Data/get_number_by_data.py" />
-        <option value="$PROJECT_DIR$/Action/login.py" />
-        <option value="$PROJECT_DIR$/HuaYingData/get_number_by_data.py" />
-        <option value="$PROJECT_DIR$/HuaYingData/ReadExcel.py" />
-        <option value="$PROJECT_DIR$/HuaYingAction/login.py" />
-        <option value="$PROJECT_DIR$/HuaYingTestSuit/all_test.py" />
-        <option value="$PROJECT_DIR$/oracle/delete.py" />
-        <option value="$PROJECT_DIR$/practice/test21.py" />
-        <option value="$PROJECT_DIR$/HuaYingObject/LocateLoginObject.py" />
-        <option value="$PROJECT_DIR$/HuaYingAction/test1_login.py" />
-        <option value="$PROJECT_DIR$/HuaYingAction/test2_register.py" />
-        <option value="$PROJECT_DIR$/HuaYingAction/test3_registerByEmail.py" />
-        <option value="$PROJECT_DIR$/HuaYingAction/test2_registerByPhone.py" />
-        <option value="$PROJECT_DIR$/huaqinwangPractice/SupplyerSettle.py" />
-        <option value="$PROJECT_DIR$/practice/test5.py" />
-        <option value="$PROJECT_DIR$/HuaYingObject/OperateRegisterElement.py" />
-        <option value="$PROJECT_DIR$/HuaYingObject/LocateRegisterObject.py" />
-        <option value="$PROJECT_DIR$/HuaYingObject/OperateLoginElement.py" />
-        <option value="$PROJECT_DIR$/HuaYingAction/test2_releaseGoods.py" />
-        <option value="$PROJECT_DIR$/HuaYingObject/OperateReleaseGoodsElement.py" />
-        <option value="$PROJECT_DIR$/huaqinwangPractice/ReleaseGoods.py" />
-        <option value="$PROJECT_DIR$/HuaYingObject/LocateReleaseGoodsObject.py" />
-        <option value="$PROJECT_DIR$/HuaYingOracle/Select.py" />
-        <option value="$PROJECT_DIR$/practice/shengcehngsuijishu.py" />
-        <option value="$PROJECT_DIR$/huaqinwangPractice/xiadanxianzhi.py" />
-        <option value="$PROJECT_DIR$/Interface/1318SendTest.py" />
-        <option value="$PROJECT_DIR$/practice/test15.py" />
-        <option value="$PROJECT_DIR$/Interface/1348SendTest.py" />
-        <option value="$PROJECT_DIR$/practice/test14.py" />
-        <option value="$PROJECT_DIR$/practice/test18.py" />
-        <option value="$PROJECT_DIR$/practice/test17.py" />
-        <option value="$PROJECT_DIR$/Action/register.py" />
         <option value="$PROJECT_DIR$/practice/zhengze.py" />
+        <option value="$PROJECT_DIR$/practice/test30.py" />
+        <option value="$USER_HOME$/PycharmProjects/untitled/kk.coffee" />
+        <option value="$USER_HOME$/PycharmProjects/untitled/templates/user.html" />
+        <option value="$USER_HOME$/PycharmProjects/untitled/untitled.py" />
+        <option value="$USER_HOME$/PycharmProjects/untitled/templates/index.html" />
+        <option value="$USER_HOME$/PycharmProjects/untitled/templates/base.html" />
+        <option value="$USER_HOME$/PycharmProjects/untitled/hello.py" />
+        <option value="$USER_HOME$/PycharmProjects/untitled/sql.py" />
+        <option value="$USER_HOME$/PycharmProjects/flasktest/app/main/__init__.py" />
+        <option value="$USER_HOME$/PycharmProjects/flasktest/app/__init__.py" />
+        <option value="$USER_HOME$/PycharmProjects/flasktest/app/main/views.py" />
+        <option value="$USER_HOME$/PycharmProjects/flasktest/app/main/forms.py" />
+        <option value="$PROJECT_DIR$/Interface/1348SendTest.py" />
+        <option value="C:/Python27/Lib/HTMLTestRunner.py" />
+        <option value="$PROJECT_DIR$/practice/test5.py" />
+        <option value="$PROJECT_DIR$/Action/login.py" />
+        <option value="$PROJECT_DIR$/practice/test31.py" />
+        <option value="G:/morethread/Test_Suite/geckodriver.log" />
+        <option value="$PROJECT_DIR$/practice/morethread.py" />
+        <option value="$PROJECT_DIR$/practice/nameForm.py" />
+        <option value="G:/morethread/Action/AddProduct.py" />
+        <option value="G:/morethread/Action/PublicLogin.py" />
+        <option value="G:/morethread/Action/QuotePrice.py" />
+        <option value="G:/morethread/Action/QuotePriceDealOrder.py" />
+        <option value="G:/morethread/Action/test_QuotePriceDealOrderPay.py" />
+        <option value="G:/morethread/Action/test_register.py" />
+        <option value="G:/morethread/Test_Suite/all_test2.py" />
+        <option value="$PROJECT_DIR$/practice/test33.py" />
+        <option value="$PROJECT_DIR$/config/config.ini" />
+        <option value="$PROJECT_DIR$/practice/test32.py" />
+        <option value="G:/morethread/Action/getConfig.py" />
+        <option value="G:/morethread/Action/t.py" />
+        <option value="$PROJECT_DIR$/practice/test34.py" />
+        <option value="G:/morethread/Action/Browser.py" />
+        <option value="G:/morethread/config/config.ini" />
+        <option value="G:/morethread/Test_Suite/all_test.py" />
+        <option value="G:/morethread/Action/login.py" />
+        <option value="$PROJECT_DIR$/practice/getworkday.py" />
+        <option value="G:/auto_test/manage.py" />
+        <option value="$PROJECT_DIR$/practice/test24.py" />
+        <option value="G:/API_SAMPLE/app/__init__.py" />
+        <option value="G:/API_SAMPLE/app/atuo/forms.py" />
+        <option value="G:/API_SAMPLE/app/templates/base.html" />
+        <option value="G:/API_SAMPLE/app/action/login.py" />
+        <option value="G:/API_SAMPLE/app/templates/autotemplates/executeTest.html" />
+        <option value="$PROJECT_DIR$/practice/test27.py" />
+        <option value="G:/API_SAMPLE/app/action/post.py" />
+        <option value="G:/API_SAMPLE/app/models.py" />
+        <option value="G:/API_SAMPLE/app/atuo/views.py" />
+        <option value="G:/API_SAMPLE/app/templates/autotemplates/getResult.html" />
       </list>
     </option>
   </component>
+  <component name="JsBowerSettings">
+    <exe-path />
+    <config-path />
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
@@ -246,6 +340,22 @@
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -271,7 +381,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="HuaYing" />
+              <option name="myItemId" value="auto_test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -281,26 +391,168 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="HuaYing" />
+              <option name="myItemId" value="auto_test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="practice" />
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HuaYing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auto_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atuo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HuaYing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auto_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="action" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HuaYing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="API_SAMPLE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HuaYing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="API_SAMPLE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HuaYing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="API_SAMPLE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HuaYing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="API_SAMPLE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="autotemplates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HuaYing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="API_SAMPLE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atuo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HuaYing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="API_SAMPLE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="action" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.vagrant" />
+    <property name="last_opened_file_path" value="G:/API_SAMPLE" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
     <property name="recentsLimit" value="5" />
     <property name="js.eslint.eslintPackage" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="Push.Settings">
+    <excluded-roots>
+      <path value="G:/HuaYingAPP" />
+    </excluded-roots>
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -311,50 +563,51 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\morethread" />
       <recent name="G:\HuaYing\HuaYingObject" />
       <recent name="G:\HuaYing\HuaYingAction" />
       <recent name="G:\HuaYing\HuaYingTestSuit" />
       <recent name="G:\HuaYing\HuaYingData" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.zhengze">
-    <configuration default="false" name="test14" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager">
+    <configuration default="false" name="loginwithCookies" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Interface" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="HuaYing" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/test14.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interface/loginwithCookies.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="test17" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
+      <option name="WORKING_DIRECTORY" value="G:/auto_test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="HuaYing" />
+      <module name="auto_test" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/test17.py" />
+      <option name="SCRIPT_NAME" value="G:/auto_test/manage.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="test18" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="test27" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -367,43 +620,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="HuaYing" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/test18.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="zhengze" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="HuaYing" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/zhengze.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="getworkday" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="HuaYing" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/getworkday.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/test27.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -623,20 +840,16 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.test14" />
-      <item index="1" class="java.lang.String" itemvalue="Python.test17" />
-      <item index="2" class="java.lang.String" itemvalue="Python.test18" />
-      <item index="3" class="java.lang.String" itemvalue="Python.zhengze" />
-      <item index="4" class="java.lang.String" itemvalue="Python.getworkday" />
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Python.loginwithCookies" />
+      <item index="1" class="java.lang.String" itemvalue="Python.manage" />
+      <item index="2" class="java.lang.String" itemvalue="Python.test27" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.zhengze" />
-        <item index="1" class="java.lang.String" itemvalue="Python.getworkday" />
-        <item index="2" class="java.lang.String" itemvalue="Python.test17" />
-        <item index="3" class="java.lang.String" itemvalue="Python.test18" />
-        <item index="4" class="java.lang.String" itemvalue="Python.test14" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.test27" />
+        <item index="1" class="java.lang.String" itemvalue="Python.manage" />
+        <item index="2" class="java.lang.String" itemvalue="Python.loginwithCookies" />
       </list>
     </recent_temporary>
   </component>
@@ -679,8 +892,68 @@
       <option name="project" value="LOCAL" />
       <updated>1487397874202</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="hahah">
+      <created>1487397927602</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1487397927602</updated>
+    </task>
+    <task id="LOCAL-00005" summary="hahah">
+      <created>1487399904447</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1487399904447</updated>
+    </task>
+    <task id="LOCAL-00006" summary="hahah">
+      <created>1487756086388</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1487756086388</updated>
+    </task>
+    <task id="LOCAL-00007" summary="hahah">
+      <created>1487926691214</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1487926691214</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittest_Login_testAddProductSuccess - 2017.05.23 at 11h 05m 13s.xml">
+      <configuration name="Unittest Login.testAddProductSuccess" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_Login_testAddProductSuccess - 2017.05.23 at 11h 29m 10s.xml">
+      <configuration name="Unittest Login.testAddProductSuccess" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_Login_testAddProductSuccess - 2017.05.23 at 11h 32m 43s.xml">
+      <configuration name="Unittest Login.testAddProductSuccess" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Login - 2017.05.23 at 11h 31m 18s.xml">
+      <configuration name="Unittests in Login" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Login_(1) - 2017.05.19 at 17h 53m 17s.xml">
+      <configuration name="Unittests in Login (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Login_(2) - 2017.05.23 at 10h 29m 57s.xml">
+      <configuration name="Unittests in Login (2)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test31 - 2017.05.04 at 17h 52m 22s.xml">
+      <configuration name="Unittests in test31" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test31 - 2017.05.04 at 17h 54m 04s.xml">
+      <configuration name="Unittests in test31" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test34 - 2017.05.17 at 17h 59m 20s.xml">
+      <configuration name="Unittests in test34" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test34 - 2017.05.17 at 17h 59m 23s.xml">
+      <configuration name="Unittests in test34" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -695,25 +968,25 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16770834" sideWeight="0.49467275" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35238096" sideWeight="0.50416666" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19349681" sideWeight="0.49467275" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286334" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35140997" sideWeight="0.51145834" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32804233" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3275488" sideWeight="0.49791667" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286334" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37418655" sideWeight="0.48854166" order="2" side_tool="false" content_ui="tabs" x="0" y="353" width="1916" height="333" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286334" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13166311" sideWeight="0.5053272" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39804772" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35238096" sideWeight="0.49583334" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3275488" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39935064" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -750,19 +1023,27 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="44" />
+      <option name="time" value="71" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/huaqinwangPractice/Register.py">
+    <entry file="file://G:/API_SAMPLE/manage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="320">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/huaqinwangPractice/SupplyerSettle.py">
+    <entry file="file://$USER_HOME$/.PyCharm2016.3/system/python_stubs/-762174762/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/API_SAMPLE/app/atuo/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -770,130 +1051,124 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/huaqinwangPractice/xiadanxianzhi.py">
+    <entry file="file://G:/API_SAMPLE/app/templates/autotemplates/addCaseInformation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        <state relative-caret-position="192">
+          <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Interface/SearchTransactionStatus.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Interface/CompulsoryTransfer.py">
+    <entry file="file://G:/API_SAMPLE/app/templates/autotemplates/addElementLocate.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Interface/1348SendTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="12" column="38" lean-forward="false" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Interface/1318SendTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HuaYingData/get_number_by_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/web_flask/webDel/test1.py" />
-    <entry file="file://$PROJECT_DIR$/practice/tableClass.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test1.py">
+    <entry file="file://G:/API_SAMPLE/app/templates/autotemplates/addTestData.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test2.py">
+    <entry file="file://G:/API_SAMPLE/app/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="14" column="84" lean-forward="false" selection-start-line="14" selection-start-column="84" selection-end-line="14" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/test34.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oracle/delete.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/test27.py">
+    <entry file="file://$PROJECT_DIR$/practice/test33.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice/test24.py">
+    <entry file="file://$PROJECT_DIR$/practice/test32.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-672">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/test31.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/test30.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/test29.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/test21.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/practice/test20.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/practice/test19.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/practice/test18.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="34" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/practice/test17.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="25" column="19" lean-forward="false" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/practice/test15.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1836">
-          <caret line="39" column="39" lean-forward="false" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/practice/test14.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="13" column="30" lean-forward="false" selection-start-line="13" selection-start-column="30" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -955,8 +1230,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/practice/test5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="2" column="11" lean-forward="true" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -964,6 +1239,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -974,7 +1250,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice/p1.py">
+    <entry file="file://$PROJECT_DIR$/practice/tableClass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/shengcehngsuijishu.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -983,124 +1266,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/practice/sendworkday.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="10" column="43" lean-forward="false" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+        <state relative-caret-position="224">
+          <caret line="7" column="11" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/HuaYingAPP/practice/test16.py">
+    <entry file="file://$PROJECT_DIR$/practice/test24.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/HuaYingAPP/practice/test15.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/HuaYingAPP/practice/test14.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/test26.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Action/AddProduct.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="25" column="43" lean-forward="false" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
-          <folding>
-            <marker date="1442372523383" expanded="true" signature="2006:2057" ph="select dd.* IMS_NEWS" />
-            <marker date="1442372523383" expanded="true" signature="2984:3035" ph="select dd.* IMS_NEWS" />
-            <marker date="1442372523383" expanded="true" signature="3858:3909" ph="select dd.* IMS_NEWS" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HuaYingAction/registerByPhone.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1455779941438" expanded="true" signature="3037:3096" ph="select qt.* mall_customer" />
-            <marker date="1455779941438" expanded="true" signature="3331:3390" ph="select qt.* mall_customer" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Action/QuotePrice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Action/PublicLogin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/web_flask/app/static/1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HuaYingAction/registerByEmail.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="35" column="44" lean-forward="false" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Action/register.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="143" column="9" lean-forward="false" selection-start-line="143" selection-start-column="9" selection-end-line="143" selection-end-column="9" />
-          <folding>
-            <marker date="1487396803758" expanded="true" signature="4743:4804" ph="select qy.* csm_user_info" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/priceUpdate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1548">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/shengcehngsuijishu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/test21.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-192">
-          <caret line="3" column="30" lean-forward="false" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        <state relative-caret-position="576">
+          <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="18" />
           <folding />
         </state>
       </provider>
@@ -1109,22 +1283,124 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice/getworkday.py">
+    <entry file="file://$PROJECT_DIR$/practice/test26.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="29" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice/zhengze.py">
+    <entry file="file://$PROJECT_DIR$/Interface/1348SendTest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
-          <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="1149" column="8" lean-forward="false" selection-start-line="1149" selection-start-column="8" selection-end-line="1149" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/API_SAMPLE/app/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/API_SAMPLE/app/resultlog/ResultLog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="3" column="28" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/auto_test/app/atuo/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-160">
+          <caret line="116" column="26" lean-forward="false" selection-start-line="116" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/auto_test/app/action/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="43" column="68" lean-forward="true" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/test27.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/API_SAMPLE/app/atuo/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-579">
+          <caret line="24" column="90" lean-forward="false" selection-start-line="24" selection-start-column="90" selection-end-line="24" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/API_SAMPLE/app/templates/autotemplates/AddFunctionModel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/API_SAMPLE/app/action/post.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/API_SAMPLE/app/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="67" column="15" lean-forward="false" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/API_SAMPLE/app/templates/autotemplates/executeTest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="16" column="47" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/API_SAMPLE/app/atuo/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1103">
+          <caret line="114" column="63" lean-forward="false" selection-start-line="114" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+          <folding>
+            <element signature="e#30#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/API_SAMPLE/app/templates/autotemplates/getResult.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="70" lean-forward="false" selection-start-line="6" selection-start-column="70" selection-end-line="6" selection-end-column="70" />
           <folding />
         </state>
       </provider>

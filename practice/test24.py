@@ -17,6 +17,7 @@ while True:
     psw = m.hexdigest()
     print "加密后的密码为：%s" %psw
     post_url="http://sso.huaqinwang.com/mall/login.shtml"
+    # 声明一个CookieJar对象实例来保存cookie
     cj = cookielib.CookieJar()
     # print cj
     opener=urllib2.build_opener(urllib2.HTTPCookieProcessor(cj))

@@ -4,5 +4,12 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Python 2.7.9 (C:\Python27\python.exe)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="HuaYingAPP" />
+    <orderEntry type="module" module-name="auto_test" />
+    <orderEntry type="module" module-name="flasktest" />
+    <orderEntry type="module" module-name="flasktest" />
+    <orderEntry type="module" module-name="morethread" />
+    <orderEntry type="module" module-name="auto_test" />
+    <orderEntry type="module" module-name="auto_test" />
   </component>
 </module>

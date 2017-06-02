@@ -6,7 +6,8 @@ class GetWorkDay():
 
     def testGetWorkDay(self):
 
-        con = cx_Oracle.connect('hqwsys', 'hqwbest_o0O', '192.168.10.3/huaqinbest')
+        # con = cx_Oracle.connect('hqwsys', 'hqwbest_o0O', '192.168.10.3/huaqinbest')#正式环境
+        con = cx_Oracle.connect('hqwsys', 'iw37l7vL', '192.168.1.149/huaqinw')#测试环境
         cr = con.cursor()
         sql = "select mq.* from SYS_WORK_DAY mq order BY mq.CURRENT_DATE desc"
         cr.execute(sql)

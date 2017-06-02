@@ -40,7 +40,7 @@ while True:
         req=urllib2.Request(post_url,post_data)
         rep=urllib2.urlopen(req)
         result=rep.read()
-        # print result
+        print result
         if '欢迎您登录' in result:
             print "正确的密码已经找到，密码为：%s" %mm
             break

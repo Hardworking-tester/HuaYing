@@ -2,5 +2,11 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="C:/Python27/Scripts/tutorial" vcs="Git" />
+    <mapping directory="G:/HuaYingAPP" vcs="Git" />
+    <mapping directory="G:/HuaYingAPP" vcs="Git" />
+    <mapping directory="G:/auto_test" vcs="Git" />
+    <mapping directory="G:/auto_test" vcs="Git" />
+    <mapping directory="G:/auto_test_api" vcs="Git" />
   </component>
 </project>

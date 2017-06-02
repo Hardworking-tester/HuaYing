@@ -16,3 +16,5 @@ sleep(2)
 br.find_element_by_xpath("/html/body/div/div/div/form/table[1]/tbody/tr/td[5]/input").click()
 br.find_element_by_css_selector("button.btn-success").click()
 
+
+
